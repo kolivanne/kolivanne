@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello there 👋
 
-### 🕹️ Projects/ Snippets
+🌱 I’m currently learning Javascript/Typescript with React<br>
+👯 I’m looking to collaborate on Frontend, C# Selenium
 
-### 🔍 Find me
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+🕹️ Portfolio: WIP =^.^=
 
-[linkedin]: https://linkedin.com/in/annbah
+🔍 Find me: <a href="https://linkedin.com/in/annbah" target="_blank">LinkedIn</a> 
 
 <!--
 **kolivanne/kolivanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
