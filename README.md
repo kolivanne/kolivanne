@@ -1,6 +1,9 @@
-### Hello there 👋
+### Hallo mit o 👋
 
-🌱 I’m currently learning Javascript/Typescript with React<br>
+🌱 I’m currently learning 
+- Javascript/Typescript with React<br>
+- Unity<br>
+
 👯 I’m looking to collaborate on Frontend, C# Selenium
 
 🕹️ Portfolio: WIP =^.^=
