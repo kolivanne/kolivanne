@@ -4,9 +4,7 @@
 - Javascript/Typescript with React<br>
 - Unity<br>
 
-👯 I’m looking to collaborate on Frontend, C# Selenium
-
-🕹️ Portfolio: WIP =^.^=
+🕹️ Portfolio: I am working on it :)
 
 🔍 Find me: <a href="https://linkedin.com/in/annbah" target="_blank">LinkedIn</a> 
 
