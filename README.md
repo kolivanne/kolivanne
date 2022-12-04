@@ -4,8 +4,6 @@
 - Javascript/Typescript with React<br>
 - Unity<br>
 
-🕹️ Portfolio: I am working on it :)
-
 🔍 Find me: <a href="https://linkedin.com/in/annbah" target="_blank">LinkedIn</a> 
 
 <!--
