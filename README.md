@@ -1,7 +1,7 @@
 ### Hallo mit o 👋
 
 🔭 I’m currently working on ...
-- Freontend (automation)
+- Frontend (automation)
 - PHP & MySQL
 - C# stuff
 - Java stuff
