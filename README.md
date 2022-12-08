@@ -1,10 +1,18 @@
 ### Hallo mit o 👋
 
-🌱 I’m currently learning 
-- Javascript/Typescript with React<br>
-- Unity<br>
+🔭 I’m currently working on ...
+- Freontend (automation)
+- PHP & MySQL
+- C# stuff
+- Java stuff
 
-🔍 Find me: <a href="https://linkedin.com/in/annbah" target="_blank">LinkedIn</a> 
+🌱 I’m currently learning ...
+- Javascript
+- Typescript
+- Unity
+
+📫 How to reach me: <a href="https://linkedin.com/in/annbah" target="_blank">LinkedIn</a> 
+
 
 <!--
 **kolivanne/kolivanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
