@@ -1,19 +1,15 @@
 ### Hallo mit o 👋
 
 🔭 I’m currently working on ...
-- Frontend (automation)
-- PHP & MySQL
-- C# stuff
-- Java stuff
+- Portfolio 
 
 🌱 I’m currently learning ...
-- Javascript
-- Typescript
-- Unity
+- Programming browser games with web technologies
 
-📫 How to reach me: <a href="https://linkedin.com/in/annbah" target="_blank">LinkedIn</a> 
+📫 How to reach me: <a target="_blank" href="https://linkedin.com/in/annbah">LinkedIn</a> 
 
-
+⚡ Fun fact ...
+I have a Slowpoke Kigurumi
 <!--
 **kolivanne/kolivanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
