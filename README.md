@@ -4,6 +4,7 @@
 
 <h3>🌱 I’m currently learning</h3>
 <p>Deepening my knowledge in <strong>Linux/DevOps</strong> and exploring AI-driven testing strategies.</p>
+<p>Designing small coding challenges to vet automation logic and data precision. [private repositories]</p>
 
 <h3>📫 How to reach me</h3>
 <ul>
