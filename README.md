@@ -8,6 +8,21 @@
 <h3>🔨 Portfolio Projects</h3>
 
 <ul>
+   <li>
+  <strong>📦 Packaging Workflow Automation</strong> (Node.js / HTML / Puppeteer)
+  <ul>
+    <li>
+      A small workflow tool that turns structured product data (CSV/Excel) into simple design-ready outputs.
+    </li>
+    <li>
+      Outputs: HTML previews per product, optional PDF export, and a CLI-based execution flow.
+    </li>
+    <li>
+      Highlights: data validation, transformation pipeline, CLI automation, design mock integration.
+    </li>
+     <li>Repo: <a target="_blank" href="https://github.com/kolivanne/pack-label-automation">GitHub Link</a></li>
+  </ul>
+</li>
   <li>
     <strong>🖥️ OpsFlow: Atlassian Lifecycle & Governance Demo </strong> (Python / GitHub Actions)
     <ul>
