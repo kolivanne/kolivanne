@@ -1,9 +1,9 @@
 <h1>Hallo mit o 👋</h1>
 
-<p>I am <strong>Anne</strong> aka Kolivanne. I use GitHub to showcase my passion for clean code and end-to-end ownership.</p>
+<p>I am <strong>Anne</strong> aka Kolivanne. I build structured, reliable software systems with a strong focus on automation, quality, and end-to-end ownership; currently expanding into embedded and system-level development.</p>
 
 <h3>🌱 I’m currently learning</h3>
-<p>Deepening my knowledge in <strong>Linux/DevOps</strong> and exploring advanced automation with GitHub Actions.</p>
+<p>Deepening my knowledge in <strong>Embedded Systems (C, ARM Cortex-M)</strong>, while continuing to expand my skills in <strong>Linux, DevOps, and automation</strong>.</p>
 
 <h3>🔨 Portfolio Projects</h3>
 
@@ -50,14 +50,18 @@
 </ul>
 
 <h3>🛠 Skills & Tech Stack</h3>
-<p>Languages: C#, Python, TypeScript, JavaScript, Java</p>
-<p>Frameworks: .NET, Spring Boot, NUnit, JUnit, Vue</p>
-<p>Tools & Platforms: GitHub Actions, Docker, Linux, VS Code, REST APIs</p>
+<p><strong>Languages:</strong> C#, Python, C (Embedded Basics), TypeScript, Java</p>
+<p><strong>Embedded & Systems:</strong> ARM Cortex-M (STM32 basics), UART/SPI/I2C (fundamentals), Cross-compilation (GCC), CMake</p>
+<p><strong>Frameworks:</strong> .NET, Spring Boot, NUnit, JUnit</p>
+<p><strong>DevOps & Automation:</strong> GitHub Actions (CI/CD), Docker, Linux, Build Automation, Python scripting</p>
+<p><strong>Testing & Quality:</strong> Unit Testing (NUnit, JUnit), Test Automation, CI-integrated testing</p>
+<p><strong>Regulated Development:</strong> Requirements-driven development, documentation, traceability</p>
+<p><strong>Tools & Platforms:</strong> Git, GitHub, VS Code</p>
 
 <h3>📫 How to reach me</h3>
 <ul>
- <li><a target="_blank" href="https://linkedin.com/in/annbah">LinkedIn</a> 💜</li>
- <li><a target="_blank" href="https://kolivanne.github.io">Visit my github.io page</a> ◀️</li>
+ <li><a target="_blank" href="https://linkedin.com/in/annbah">LinkedIn</a></li>
+ <li><a target="_blank" href="https://kolivanne.github.io">Portfolio / Projects</a> – Selected engineering work and demos</li>
 </ul>
 
 <h3>🐸 Fun facts</h3>
